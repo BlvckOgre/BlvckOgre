@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Engineer+%7C+DevOps+%7C+DevSec;Turning+Data+into+Actionable+Insights;[Securing+Cloud+&+Business+Solutions];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Engineer+%7C+DevOps+%7C+DevSec;Turning+Data+into+Actionable+Insights;[Securing+Cloud+And+Business+Solutions]" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -18,13 +18,13 @@ I'm a passionate Data Engineer and DevOps/DevSecOps Engineer with a strong focus
 On my GitHub, you'll find a mix of my personal projects, open-source contributions, and solutions that blend data engineering with DevOps and security practices. I'm always open to collaboration and learning, so feel free to explore and reach out!
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://BlvckOgre.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** []  
+- **Project B:** []
+- **Content Creation:** []
 
 ## 🌱 Currently Learning 
 
