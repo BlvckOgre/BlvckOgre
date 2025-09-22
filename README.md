@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Engineer+%7C+DevOps+%7C+DevSec;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Engineer+%7C+DevOps+%7C+DevSec;Turning+Data+into+Actionable+Insights;[Securing+Cloud+&+Business+Solutions];[Your+Experience+or+Tagline]" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -13,11 +13,9 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a passionate Data Engineer and DevOps/DevSecOps Engineer with a strong focus on building scalable, secure, and automated systems. I specialize in optimizing data pipelines, ensuring seamless cloud infrastructure, and implementing robust security practices across the CI/CD lifecycle. With experience in cloud platforms, containerization, and infrastructure-as-code, I'm committed to creating solutions that are not only efficient but also secure by design.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+On my GitHub, you'll find a mix of my personal projects, open-source contributions, and solutions that blend data engineering with DevOps and security practices. I'm always open to collaboration and learning, so feel free to explore and reach out!
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
